@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/index.html", "destination": "/" },
-    { "source": "/category.html", "destination": "/category" }
-  ]
-}
